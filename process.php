@@ -1,6 +1,6 @@
 <?php
 // Configurações do banco de dados
-$servername = "https://github.com/Evernosreve/portal_igreja/edit/main/process.php ";    
+$servername = "localhost";    
 $username = "seu_usuario";  
 $password = "sua_senha";  
 $dbname = "nome_do_banco";  
